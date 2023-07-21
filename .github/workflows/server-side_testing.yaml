@@ -1,4 +1,4 @@
-name: Server Build Action
+name: Server Side Testing Action
 run-name: ${{ github.actor }} is testing out the Server-Side solution
 on: 
   push:
